@@ -1,4 +1,5 @@
-# Hello, I'm Bharath AKA Spidey!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;VR+Developer;Anime+Lover;Game+Developer)](https://git.io/typing-svg)
+
 
 I love anime, coding, Game development.
 
