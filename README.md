@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <span style="color:#FF6EC7;">✨ Hello! I'm Bharath AKA Spidey ✨</span>
+  <span style="color:#FF6EC7;">🕸️ Hello! I'm Bharath AKA Spidey 🕸️</span>
 </h1>
 <h3 align="center">
   VR Developer | Anime Lover | AI_Tools Explorer | Game Developer
