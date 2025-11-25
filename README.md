@@ -2,7 +2,7 @@
 <h1 align="center">
   <span style="color:#FF6EC7;">🕸️ Hello! I'm Bharath AKA Spidey 🕸️</span>
 </h1>
-<h3 align="center">
+<h3 align="center" style="color:#ff4ddb;">
   VR Developer | Anime Lover | AI_Tools Explorer | Game Developer
 </h3>
 
@@ -35,11 +35,11 @@
 ## My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-60%25-FF6EC7?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-50%25-FF6EC7?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-45%25-FF6EC7?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-60%25-FF6EC7?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-50%25-FF6EC7?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Github-40%25-FF6EC7?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-70%25-FF6EC7?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-40%25-FF6EC7?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
 
