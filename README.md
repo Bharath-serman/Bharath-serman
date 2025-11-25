@@ -39,6 +39,3 @@
   <img src="https://img.shields.io/badge/Blender-40%25-FF6EC7?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
 
-
-## 🌸 My Anime Inspiration (Violet Evergarden)
-![wallpaperflare com_wallpaper (5)](https://github.com/user-attachments/assets/c33d3152-23a9-4f8b-9f33-1e6ffdd8a181)
