@@ -21,7 +21,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bharath-serman&show_icons=true&theme=tokyonight&color=pink" height="150" />
 </p>
 
-
 <p align="center">
   <a href="mailto:bharathserman@gmail.com">
     <img src="https://img.shields.io/badge/Email-00FFE0?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -40,4 +39,3 @@
   <img src="https://img.shields.io/badge/Github-40%25-FF6EC7?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Blender-40%25-FF6EC7?style=for-the-badge&logo=blender&logoColor=white" />
 </p>
-
