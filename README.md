@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 style="color:#FF6EC7;">
-    🕸️ Hello! I'm Bharath serman 🕸️
+     Hello! I'm Bharath serman 
   </h1>
 </div>
 
@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Unity+VR+Developer;Anime+and+Manga+Lover;Learning+Japanese;Always+Exploring+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Unity+VR+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
 </p>
 
 <p align="center">
