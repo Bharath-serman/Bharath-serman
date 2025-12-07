@@ -6,7 +6,7 @@
 </div>
 
 <h3 align="center" style="color:#ff4ddb;">
-  VR Developer | Anime Lover | AI_Tools Explorer | Game Developer
+  Game Developer | Student | AI_Tools Explorer | Astrophile
 </h3>
 
 <p align="center">
