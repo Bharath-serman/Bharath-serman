@@ -22,11 +22,12 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bharathserman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFE0?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/Portfolio-0072b1?style=for-the-badge&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/bharath-serman-r-7999b8262/">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004471" />
   </a>
 </p>
 
