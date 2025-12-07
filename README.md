@@ -34,10 +34,10 @@
 ## My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-50%25-FF6EC7?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-45%25-FF6EC7?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-50%25-FF6EC7?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-40%25-FF6EC7?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-40%25-FF6EC7?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-0072b1?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-0072b1?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-0072b1?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-0072b1?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-0072b1?style=for-the-badge&logo=blender&logoColor=white" />
 
 </p>
