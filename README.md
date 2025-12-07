@@ -10,16 +10,18 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=Unity+VR+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Unity+VR+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&pause=2000&center=true&vCenter=true&width=700&color=FF6EC7&height=70&lines=I+am+a+VR+Developer+and+Game+Development+Learner.;I+love+Anime+and+like+to+use+AI+tools;Currently+learning+Unity+%2B+C%23+%2B+Japanese.;My+dream+is+to+become+a+Game+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&pause=2000&center=true&vCenter=true&width=700&color=87CEEB&height=70&lines=I+am+a+VR+Developer+and+Game+Development+Learner.;I+love+Anime+and+like+to+use+AI+tools;Currently+learning+Unity+%2B+C%23+%2B+Japanese.;My+dream+is+to+become+a+Game+Developer.">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharath-serman&show_icons=true&theme=tokyonight&color=pink" height="150" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bharath-serman&show_icons=true&theme=tokyonight" height="150" />
 </p>
+
+
 
 <p align="center">
   <a href="mailto:bharathserman@gmail.com">
