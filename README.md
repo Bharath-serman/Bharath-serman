@@ -18,10 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bharath-serman&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharath-serman&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 <p align="center">
   <a href="mailto:bharathserman@gmail.com">
