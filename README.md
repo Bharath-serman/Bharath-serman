@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-tan-psi-63.vercel.app/">
+  <a href="https://portfolio-bharath-serman.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0072b1?style=for-the-badge&logoColor=white" />
   </a>
 
