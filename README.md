@@ -10,7 +10,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Unity+VR+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
 </p>
 
 <p align="center">
