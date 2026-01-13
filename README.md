@@ -10,11 +10,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8806CE&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;Learning+Japanese;Always+Exploring+New+Tech" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&pause=2000&center=true&vCenter=true&width=700&color=87CEEB&height=70&lines=I+am+a+UI+Designer+and+Game+Developer+.;I+love+Anime+and+like+to+use+AI+tools;Currently+learning+Unity+%2B+C%23+%2B+Japanese.;My+dream+is+to+become+a+Unity+Developer.">
+  <img src="https://readme-typing-svg.herokuapp.com?duration=7000&pause=2000&center=true&vCenter=true&width=700&color=8806CE&height=70&lines=I+am+a+UI+Designer+and+Game+Developer+.;I+love+Anime+and+like+to+use+AI+tools;Currently+learning+Unity+%2B+C%23+%2B+Japanese.;My+dream+is+to+become+a+Unity+Developer.">
 </p>
 
 <p align="center">
