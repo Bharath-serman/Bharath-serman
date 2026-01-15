@@ -1,12 +1,12 @@
 
 <div align="center">
-  <h1 style="color:#FF6EC7;">
+  <h1 style="color:#ce7bdc;">
      Hello! I'm Bharath serman R.
   </h1>
 </div>
 
 <h3 align="center" style="color:#ff4ddb;">
-  Game Developer | Student | AI_Tools_Explorer 
+  Game Developer | B.E Final year Computer Science Student  
 </h3>
 
 <p align="center">
@@ -23,21 +23,21 @@
 
 <p align="center">
   <a href="https://portfolio-bharath-serman.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-0072b1?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-8806CE?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/bharath-serman-r-7999b8262/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004471" />
+  <img src="https://img.shields.io/badge/LinkedIn-8806CE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004471" />
   </a>
 </p>
 
 ## My Skills
 
 <p align="center">
-<img src="https://img.shields.io/badge/Unity-0072b1?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer-0072b1?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-0072b1?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-0072b1?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Blender-0072b1?style=for-the-badge&logo=blender&logoColor=white" />
+<img src="https://img.shields.io/badge/Unity-8806CE?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer-8806CE?style=for-the-badge&logo=framer&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-8806CE?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-8806CE?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-8806CE?style=for-the-badge&logo=blender&logoColor=white" />
 
 </p>
