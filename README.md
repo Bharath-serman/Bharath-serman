@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1 style="color:#ce7bdc;">
-     Hello! I'm Bharath serman R.
+     Hello Everyone! I'm Bharath serman R.
   </h1>
 </div>
 
