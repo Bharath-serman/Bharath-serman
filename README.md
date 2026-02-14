@@ -6,11 +6,11 @@
 </div>
 
 <h3 align="center" style="color:#ff4ddb;">
-  Game Developer | XR Manual Tester | B.E Final year Computer Science Student
+  Game Developer | QA Tester | B.E Final year Computer Science Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8806CE&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;XR+Manual+Tester;Learning+Japanese;Always+Exploring+New+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8806CE&center=true&vCenter=true&width=600&lines=Unity+Game+Developer;QA+Tester;Learning+Japanese;Always+Exploring+New+Tech" />
 </p>
 
 <p align="center">
