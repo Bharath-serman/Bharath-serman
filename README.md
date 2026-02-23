@@ -1,6 +1,6 @@
 # Hello Everyone! I'm Bharath Serman R.
 
-### Game Developer | AR/VR QA Tester | B.E Final Year Computer Science Student
+### Game Developer | XR QA Tester | B.E Final Year Computer Science Student
 
 ---
 
