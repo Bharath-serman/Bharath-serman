@@ -28,6 +28,7 @@
 ## Portfolio & Links
 - Portfolio: https://portfolio-bharath-serman.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/bharath-serman-r-7999b8262/
+- Duolingo: https://www.duolingo.com/profile/Bharathserman
 
 ---
 
