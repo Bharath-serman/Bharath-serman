@@ -36,11 +36,10 @@
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-FF4F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-
+![Antigravity](https://img.shields.io/badge/Antigravity-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)
+![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-FF6F00?style=for-the-badge&logo=unity&logoColor=white)
