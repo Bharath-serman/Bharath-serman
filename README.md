@@ -1,6 +1,6 @@
-# Hello Everyone! I'm Bharath Serman R.
+# Hello Everyone! I'm Bharath serman R.
 
-### Game Developer | XR QA Tester | B.E Final Year Computer Science Student
+### Game Developer | XR Game Tester | B.E Final Year Computer Science Student
 
 ---
 
@@ -10,10 +10,10 @@
 
 ## About Me
 - Unity Game Developer
-- Interested in Making Games and UI Designing
+- Interested in Making Games and Full stack websites using AI
 - Exploring AI Tools & New Technologies
 - Currently Learning Japanese
-- Likes to read Books and watch animes
+- Likes to read Books (Manga and Novel) and watch animes
 
 ---
 
