@@ -1,6 +1,6 @@
 # Hello Everyone! I'm Bharath serman R.
 
-### Game Developer | XR Game Tester | B.E Final Year Computer Science Student
+### Unity Game Developer | XR Game Tester | B.E Final Year Computer Science Student
 
 ---
 
@@ -29,6 +29,7 @@
 - Portfolio: https://portfolio-bharath-serman.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/bharath-serman-r-7999b8262/
 - Duolingo: https://www.duolingo.com/profile/Bharathserman
+- Cassiora: https://placement-cassiora.vercel.app/
 
 ---
 
@@ -39,7 +40,6 @@
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-FF4F00?style=for-the-badge&logo=openai&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)
 ![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-FF6F00?style=for-the-badge&logo=unity&logoColor=white)
