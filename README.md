@@ -1,6 +1,6 @@
-# Hello Everyone! I'm Bharath serman R.
+Hello Everyone! I'm Bharath serman R.
 
-### Unity Game Developer | XR Game Tester | B.E Final Year Computer Science Student
+### Unity Game Developer | XR Game Tester | Web developer
 
 ---
 
@@ -9,10 +9,11 @@
 > I am a final-year B.E Computer Science student passionate about Unity game development.I enjoy creating interactive projects that combine creativity, design, and emerging technology. Alongside development, I explore AI tools, UI design, and new tech trends to continuously expand my skills.Currently, I am improving my Unity, C#, and Japanese language abilities while building practical projects. My goal is to grow into a professional Unity developer and contribute to innovative interactive experiences.
 
 ## About Me
-- Unity Game Developer
-- Interested in Making Games and Full stack websites using AI
+- Unity Game Developer and full stack web developer. 
+- Interested in Making Games and Full stack websites.
 - Exploring AI Tools & New Technologies
 - Currently Learning Japanese
+- Currently working as an XR Tester at VRARRI. 
 - Likes to read Books (Manga and Novel) and watch animes
 
 ---
