@@ -27,11 +27,10 @@ Hello Everyone! I'm Bharath serman R.
 ---
 
 ## Portfolio & Links
-- Portfolio: https://portfolio-bharath-serman.vercel.app/
+- Petal_Portfolio: https://bharath-petal-portfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/bharath-serman-r-7999b8262/
 - Duolingo: https://www.duolingo.com/profile/Bharathserman
 - Cassiora: https://placement-cassiora.vercel.app/
-- Petal_Portfolio: https://bharath-petal-portfolio.vercel.app/
 
 ---
 
