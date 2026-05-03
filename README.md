@@ -1,4 +1,4 @@
-Hello Everyone! I'm Bharath serman R.
+Hello Everyone! I'm Bharath serman R
 
 ### Unity Game Developer | XR Game Tester | Web developer
 
