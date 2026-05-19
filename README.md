@@ -14,7 +14,7 @@ Hello Everyone! I'm Bharath serman R
 - Exploring AI Tools & New Technologies
 - Currently Learning Japanese
 - Currently working as an XR Tester at VRARRI. 
-- Likes to read Books (Manga and Novel) and watch animes
+- Likes to read Books (Mangas and Web Novels) and watch animes
 
 ---
 
