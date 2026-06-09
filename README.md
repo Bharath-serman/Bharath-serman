@@ -13,8 +13,8 @@ Hello Everyone! I'm Bharath serman R
 - Interested in Making Games and Full stack websites.
 - Exploring AI Tools & New Technologies
 - Currently Learning Japanese
-- Currently working as an XR Tester at VRARRI. 
-- Likes to read Books (Mangas and Web Novels) and watch animes
+- Currently working as an XR Game Tester at VRARRI.
+- Likes to read Books (Mangas and Web Novels) and watch animes.
 
 ---
 
