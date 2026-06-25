@@ -12,7 +12,7 @@ Hello Everyone! I'm Bharath serman R
 - Unity Game Developer, XR Game Tester and web developer. 
 - Interested in Making Games and Full stack websites.
 - Exploring AI Tools & New Technologies.
-- Currently Learning Japanese
+- Currently Learning Japanese and have around 850 continuous streak on duolingo.
 - Currently working as an XR Game Tester at VRARRI.
 - Likes to read Books (Mangas and Web Novels) and watch animes.
 
