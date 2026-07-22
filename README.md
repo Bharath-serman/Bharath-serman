@@ -45,3 +45,9 @@ Hello Everyone! I'm Bharath serman R
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-00C2FF?style=for-the-badge&logo=rocket&logoColor=white)
 ![Plastic SCM](https://img.shields.io/badge/Plastic%20SCM-FF6F00?style=for-the-badge&logo=unity&logoColor=white)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/pacman-contribution-graph.svg">
+</picture>
