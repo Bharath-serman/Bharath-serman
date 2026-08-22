@@ -9,7 +9,7 @@ Hello Everyone! I'm Bharath serman R
 > I'm a passionate Unity game developer and AI-Assisted Full-Stack Developer. I enjoy creating interactive projects that combine creativity, design, and emerging technology. Alongside development, I explore AI tools, UI design, and new tech trends to continuously expand my skills. Currently, I am improving my Unity, C#, and Japanese language abilities while building practical projects. My goal is to grow into a professional Unity developer and contribute to innovative interactive experiences.
 
 ## About Me
-- Unity Game Developer, XR Game Tester and web developer. 
+- Unity Game Developer, XR Game Tester and AI-Assisted Full-Stack Developer. 
 - Interested in Making Games and Full stack websites.
 - Exploring AI Tools & New Technologies.
 - Currently Learning Japanese and have around 850 continuous streak on duolingo.
