@@ -1,6 +1,6 @@
 Hello Everyone! I'm Bharath serman R
 
-### Unity Game Developer | XR Game Tester | Web Developer
+### Unity Game Developer | XR Game Tester | AI-Assited Full stack Developer
 
 ---
 
