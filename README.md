@@ -24,6 +24,11 @@ Hello Everyone! I'm Bharath serman R
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bharath-serman&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/02fb4c58-47c8-44fc-9ca2-03976ba9b397" />
+</p>
+
+
 ---
 
 ## Portfolio & Links
