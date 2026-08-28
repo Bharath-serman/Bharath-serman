@@ -27,7 +27,7 @@ Hello Everyone! I'm Bharath serman R
 ---
 
 ## Portfolio & Links
-- Petal_Portfolio: https://bharath-petal-portfolio.vercel.app/
+- Portfolio: https://bharath-petal-portfolio.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/bharath-serman-r-7999b8262/
 - Duolingo: https://www.duolingo.com/profile/Bharathserman
 - Musashi_Kana: https://musashi-kana.vercel.app/
